@@ -1,0 +1,12 @@
+// 1.20.2	2023-11-22T18:28:50.8491989	Sentree's Mod/Tags for minecraft:block
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\fabric\tags\blocks\needs_tool_level_4.json
+f0cf77f50ea298467a1a7462be030c4f0d9b8911 data\minecraft\tags\blocks\fences.json
+b036294a40c9fa805e36be238b7e0e2ea7ecf58f data\minecraft\tags\blocks\fence_gates.json
+f1054b37d0eb9c0369252b66b9c5d0b666721d62 data\minecraft\tags\blocks\needs_diamond_tool.json
+b8f305a62f4cac9b2b5890518c6a02d7bd915462 data\minecraft\tags\blocks\walls.json
+2b4de6dfe5f5691c59f02a9bdf77953b3fa4ad52 data\minecraft\tags\blocks\mineable\axe.json
+e1976060533f0f3fa9597e028b0ee26b80a65137 data\minecraft\tags\blocks\mineable\pickaxe.json
+c1264bbd4c5faa2410526ee3b621156bc607dc9f data\minecraft\tags\blocks\needs_stone_tool.json
+232c4c341e8ac7a8694997922d8482567702bf6c data\sentreesmod\tags\blocks\metaldetectordetectableblocks.json
+195669e1874af10fb5678a4ef2dbf5cc390eb6a3 data\minecraft\tags\blocks\logs_that_burn.json
+84ffd752456d72e10abbfe38fd4ae0603a5019b0 data\minecraft\tags\blocks\needs_iron_tool.json

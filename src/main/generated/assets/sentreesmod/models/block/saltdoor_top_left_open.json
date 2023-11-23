@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_left_open",
+  "textures": {
+    "bottom": "sentreesmod:block/saltdoor_bottom",
+    "top": "sentreesmod:block/saltdoor_top"
+  }
+}

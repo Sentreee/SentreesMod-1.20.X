@@ -1,0 +1,24 @@
+{
+  "type": "sentreesmod:cookingpot",
+  "ingredients": [
+    {
+      "item": "sentreesmod:relish"
+    },
+    {
+      "item": "sentreesmod:ketchup"
+    },
+    {
+      "item": "sentreesmod:mustard"
+    },
+    {
+      "item": "sentreesmod:refinedsalt"
+    },
+    {
+      "item": "sentreesmod:hotdog"
+    }
+  ],
+  "output": {
+    "item": "sentreesmod:loadedhotdog",
+    "count": 1
+  }
+}

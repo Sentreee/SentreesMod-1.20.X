@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "sentreesmod:saltore",
+    "sentreesmod:saltblock",
+    "sentreesmod:saltstairs",
+    "sentreesmod:saltslab",
+    "sentreesmod:saltbutton",
+    "sentreesmod:saltpressureplate",
+    "sentreesmod:saltfencegate",
+    "sentreesmod:saltfence",
+    "sentreesmod:saltwall",
+    "sentreesmod:saltdoor",
+    "sentreesmod:salttrapdoor"
+  ]
+}

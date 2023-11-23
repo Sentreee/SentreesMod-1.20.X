@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "sentreesmod:block/saltblock",
+    "side": "sentreesmod:block/saltblock",
+    "top": "sentreesmod:block/saltblock"
+  }
+}

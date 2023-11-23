@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "sentreesmod:block/dice_3",
+    "down": "sentreesmod:block/dice_4",
+    "north": "sentreesmod:block/dice_6",
+    "east": "sentreesmod:block/dice_2",
+    "south": "sentreesmod:block/dice_1",
+    "west": "sentreesmod:block/dice_5",
+    "particle": "sentreesmod:block/dice_3"
+  }
+}

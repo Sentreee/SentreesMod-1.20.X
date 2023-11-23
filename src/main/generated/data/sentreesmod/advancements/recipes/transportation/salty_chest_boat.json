@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_salty_boat": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "sentreesmod:salty_boat"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:salty_chest_boat"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_salty_boat"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:salty_chest_boat"
+    ]
+  },
+  "sends_telemetry_event": false
+}

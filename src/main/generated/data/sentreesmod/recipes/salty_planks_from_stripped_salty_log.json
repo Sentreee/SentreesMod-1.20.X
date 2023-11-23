@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "salty_planks",
+  "ingredients": [
+    {
+      "item": "sentreesmod:stripped_salty_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "sentreesmod:salty_planks"
+  }
+}

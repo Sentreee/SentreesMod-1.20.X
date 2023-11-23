@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "number=up": {
+      "model": "sentreesmod:block/dice_1"
+    },
+    "number=north": {
+      "model": "sentreesmod:block/dice_2"
+    },
+    "number=east": {
+      "model": "sentreesmod:block/dice_3"
+    },
+    "number=south": {
+      "model": "sentreesmod:block/dice_5"
+    },
+    "number=west": {
+      "model": "sentreesmod:block/dice_4"
+    },
+    "number=down": {
+      "model": "sentreesmod:block/dice_6"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "sentreesmod:block/tomatocrop_stage0"
+  }
+}

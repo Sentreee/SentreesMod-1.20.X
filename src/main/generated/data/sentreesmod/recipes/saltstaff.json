@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "sentreesmod:saltblock"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "B",
+    "S",
+    "S"
+  ],
+  "result": {
+    "item": "sentreesmod:saltstaff"
+  },
+  "show_notification": true
+}

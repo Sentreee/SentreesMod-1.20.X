@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_block"
+    },
+    "D": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "DDD",
+    "AAA"
+  ],
+  "result": {
+    "item": "sentreesmod:cottonwood_album"
+  },
+  "show_notification": true
+}

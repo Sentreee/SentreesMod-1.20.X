@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "M": {
+      "item": "sentreesmod:mustardseeds"
+    }
+  },
+  "pattern": [
+    "MMM",
+    " B "
+  ],
+  "result": {
+    "item": "sentreesmod:mustard"
+  },
+  "show_notification": true
+}

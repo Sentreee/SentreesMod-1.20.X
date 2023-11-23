@@ -1,0 +1,12 @@
+{
+  "type": "sentreesmod:pickler",
+  "ingredients": [
+    {
+      "item": "sentreesmod:cucumber"
+    }
+  ],
+  "output": {
+    "item": "sentreesmod:pickle",
+    "count": 1
+  }
+}

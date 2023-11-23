@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": {
+      "item": "sentreesmod:salty_planks"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SSS",
+    " T "
+  ],
+  "result": {
+    "count": 6,
+    "item": "sentreesmod:salty_sign"
+  },
+  "show_notification": true
+}

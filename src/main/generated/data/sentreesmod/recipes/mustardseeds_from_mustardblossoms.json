@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "mustardseeds",
+  "ingredients": [
+    {
+      "item": "sentreesmod:mustardblossoms"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "sentreesmod:mustardseeds"
+  }
+}

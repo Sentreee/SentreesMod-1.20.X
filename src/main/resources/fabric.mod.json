@@ -1,0 +1,46 @@
+{
+	"schemaVersion": 1,
+	"id": "sentreesmod",
+	"version": "${version}",
+	"name": "Sentree's Mod",
+	"description": "Sentree's Mod",
+	"authors": [
+		"Sentree"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/sentreesmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.sentree.sentreesmod.SentreesMod"
+		],
+		"client": [
+			"net.sentree.sentreesmod.SentreesModClient"
+		],
+		"fabric-datagen": [
+			"net.sentree.sentreesmod.SentreesModDataGenerator"
+		],
+		"rei_client": [
+			"net.sentree.sentreesmod.compat.SentreesModREIClientPlugin"
+		],
+		"terrablender": [
+			"net.sentree.sentreesmod.world.biome.ModTerrablenderAPI"
+		]
+	},
+	"mixins": [
+		"sentreesmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.24",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

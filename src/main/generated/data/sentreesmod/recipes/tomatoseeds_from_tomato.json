@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "tomatoseeds",
+  "ingredients": [
+    {
+      "item": "sentreesmod:tomato"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "sentreesmod:tomatoseeds"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "cucumberseeds",
+  "ingredients": [
+    {
+      "item": "sentreesmod:cucumber"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "sentreesmod:cucumberseeds"
+  }
+}

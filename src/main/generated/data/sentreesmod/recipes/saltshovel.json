@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "item": "sentreesmod:compressedsaltblock"
+    },
+    "^": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "S",
+    "^",
+    "^"
+  ],
+  "result": {
+    "item": "sentreesmod:saltshovel"
+  },
+  "show_notification": true
+}

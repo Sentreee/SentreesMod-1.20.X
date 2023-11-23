@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "sentreesmod:compressedsaltblock"
+    }
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "item": "sentreesmod:saltblock",
+    "count": 9
+  },
+  "show_notification": true
+}

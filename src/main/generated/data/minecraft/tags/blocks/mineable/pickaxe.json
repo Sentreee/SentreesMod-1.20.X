@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "sentreesmod:saltore",
+    "sentreesmod:saltblock",
+    "sentreesmod:cookingpot",
+    "sentreesmod:cobblegenblock",
+    "sentreesmod:compressedsaltblock",
+    "sentreesmod:dice_block",
+    "sentreesmod:saltstairs",
+    "sentreesmod:saltslab",
+    "sentreesmod:saltbutton",
+    "sentreesmod:saltpressureplate",
+    "sentreesmod:saltfencegate",
+    "sentreesmod:saltfence",
+    "sentreesmod:saltwall",
+    "sentreesmod:saltdoor",
+    "sentreesmod:salttrapdoor",
+    "sentreesmod:salty_planks",
+    "sentreesmod:salty_log",
+    "sentreesmod:salty_wood",
+    "sentreesmod:stripped_salty_log",
+    "sentreesmod:stripped_salty_wood",
+    "sentreesmod:salty_hanging_sign",
+    "sentreesmod:salty_standing_sign",
+    "sentreesmod:salty_wall_sign",
+    "sentreesmod:salty_wall_hanging_sign"
+  ]
+}

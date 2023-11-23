@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "P": {
+      "item": "sentreesmod:pickle"
+    }
+  },
+  "pattern": [
+    "PPP",
+    " B "
+  ],
+  "result": {
+    "item": "sentreesmod:relish"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "sentreesmod:cucumber"
+    },
+    "P": {
+      "tag": "sentreesmod:planks"
+    }
+  },
+  "pattern": [
+    "P P",
+    "PCP",
+    "PPP"
+  ],
+  "result": {
+    "item": "sentreesmod:pickler"
+  },
+  "show_notification": true
+}

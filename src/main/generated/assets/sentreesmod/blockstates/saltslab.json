@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sentreesmod:block/saltslab"
+    },
+    "type=double": {
+      "model": "sentreesmod:block/saltblock"
+    },
+    "type=top": {
+      "model": "sentreesmod:block/saltslab_top"
+    }
+  }
+}

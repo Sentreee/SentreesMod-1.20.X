@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "sentreesmod:block/saltpressureplate"
+    },
+    "powered=true": {
+      "model": "sentreesmod:block/saltpressureplate_down"
+    }
+  }
+}

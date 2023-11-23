@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "T": {
+      "item": "sentreesmod:tomato"
+    }
+  },
+  "pattern": [
+    "TTT",
+    " B "
+  ],
+  "result": {
+    "item": "sentreesmod:ketchup"
+  },
+  "show_notification": true
+}

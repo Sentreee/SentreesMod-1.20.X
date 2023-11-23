@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "blocks",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "group": "cookedwienerblock",
+  "ingredient": {
+    "item": "sentreesmod:wienerblock"
+  },
+  "result": "sentreesmod:cookedwienerblock"
+}

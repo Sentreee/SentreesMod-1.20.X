@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "sentreesmod:block/stripped_salty_log",
+    "side": "sentreesmod:block/stripped_salty_log"
+  }
+}

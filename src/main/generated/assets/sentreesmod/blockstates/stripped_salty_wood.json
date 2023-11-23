@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "sentreesmod:block/stripped_salty_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "sentreesmod:block/stripped_salty_wood"
+    },
+    "axis=z": {
+      "model": "sentreesmod:block/stripped_salty_wood",
+      "x": 90
+    }
+  }
+}

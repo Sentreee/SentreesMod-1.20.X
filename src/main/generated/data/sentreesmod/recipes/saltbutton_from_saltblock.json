@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "saltbutton",
+  "ingredients": [
+    {
+      "item": "sentreesmod:saltblock"
+    }
+  ],
+  "result": {
+    "item": "sentreesmod:saltbutton"
+  }
+}

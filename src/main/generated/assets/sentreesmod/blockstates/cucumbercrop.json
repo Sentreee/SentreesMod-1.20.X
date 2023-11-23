@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "sentreesmod:block/cucumbercrop_stage0"
+    },
+    "age=1": {
+      "model": "sentreesmod:block/cucumbercrop_stage1"
+    },
+    "age=2": {
+      "model": "sentreesmod:block/cucumbercrop_stage2"
+    },
+    "age=3": {
+      "model": "sentreesmod:block/cucumbercrop_stage3"
+    },
+    "age=4": {
+      "model": "sentreesmod:block/cucumbercrop_stage4"
+    },
+    "age=5": {
+      "model": "sentreesmod:block/cucumbercrop_stage5"
+    },
+    "age=6": {
+      "model": "sentreesmod:block/cucumbercrop_stage6"
+    },
+    "age=7": {
+      "model": "sentreesmod:block/cucumbercrop_stage7"
+    },
+    "age=8": {
+      "model": "sentreesmod:block/cucumbercrop_stage8"
+    }
+  }
+}

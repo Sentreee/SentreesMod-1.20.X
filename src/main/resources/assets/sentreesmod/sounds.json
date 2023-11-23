@@ -1,0 +1,40 @@
+{
+  "metaldetectorfoundore": {
+    "subtitle": "sounds.sentreesmod.metaldetectorfoundore",
+    "sounds": [
+      "sentreesmod:metaldetectorfoundore"
+    ]
+  },
+  "cmonfreestyle": {
+    "sounds": [
+      {
+        "name": "sentreesmod:cmonfreestyle",
+        "stream": true
+      }
+    ]
+  },
+  "doitagain": {
+    "sounds": [
+      {
+        "name": "sentreesmod:doitagain",
+        "stream": true
+      }
+    ]
+  },
+  "champions": {
+    "sounds": [
+      {
+        "name": "sentreesmod:champions",
+        "stream": true
+      }
+    ]
+  },
+  "dope": {
+    "sounds": [
+      {
+        "name": "sentreesmod:dope",
+        "stream": true
+      }
+    ]
+  }
+}

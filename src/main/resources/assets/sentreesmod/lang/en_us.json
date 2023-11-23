@@ -1,0 +1,91 @@
+{
+  "item.sentreesmod.hotdog": "Hot Dog",
+  "item.sentreesmod.wiener": "Wiener",
+  "item.sentreesmod.cookedwiener": "Cooked Wiener",
+  "item.sentreesmod.hdbun": "Hot Dog Bun",
+  "item.sentreesmod.ketchup": "Ketchup",
+  "item.sentreesmod.relish": "Relish",
+  "item.sentreesmod.mustard": "Mustard",
+  "item.sentreesmod.pickle": "Pickle",
+  "item.sentreesmod.cucumber": "Cucumber",
+  "item.sentreesmod.tomato": "Tomato",
+  "item.sentreesmod.mustardseeds": "Mustard Seeds",
+  "item.sentreesmod.tomatoseeds": "Tomato Seeds",
+  "item.sentreesmod.cucumberseeds": "Cucumber Seeds",
+
+  "item.sentreesmod.refinedsalt": "Refined Salt",
+  "item.sentreesmod.saltchunk": "Salt Chunk",
+  "item.sentreesmod.metaldetector": "Metal Detector",
+  "item.sentreesmod.loadedhotdog": "Loaded Hot Dog",
+  "item.sentreesmod.radcoal": "Radioactive Coal",
+  "item.sentreesmod.saltstaff": "Salt Staff",
+  "item.sentreesmod.saltpickaxe": "Salt Pickaxe",
+  "item.sentreesmod.saltaxe": "Salt Axe",
+  "item.sentreesmod.salthoe": "Salt Hoe",
+  "item.sentreesmod.saltsword": "Salt Sword",
+  "item.sentreesmod.saltshovel": "Salt Shovel",
+
+  "block.sentreesmod.salty_log": "Salty Log",
+  "block.sentreesmod.salty_wood": "Salty Wood",
+  "block.sentreesmod.stripped_salty_log": "Stripped Salty Log",
+  "block.sentreesmod.stripped_salty_wood": "Stripped Salty Wood",
+  "block.sentreesmod.salty_planks": "Salty Planks",
+  "block.sentreesmod.salty_leaves": "Salty Leaves",
+
+  "block.sentreesmod.salty_standing_sign": "Salty Standing Sign",
+  "block.sentreesmod.salty_wall_hanging_sign": "Salty Wall Hanging Sign",
+  "block.sentreesmod.salty_hanging_sign": "Salty Hanging Sign",
+  "block.sentreesmod.salty_wall_sign": "Salty Wall Sign",
+
+  "item.sentreesmod.salthelmet": "Salt Helmet",
+  "item.sentreesmod.saltchestplate": "Salt Chestplate",
+  "item.sentreesmod.saltleggings": "Salt Leggings",
+  "item.sentreesmod.saltboots": "Salt Boots",
+
+  "item.sentreesmod.dice": "Dice",
+
+  "item.sentreesmod.salty_boat": "Salty Boat",
+  "item.sentreesmod.salty_chest_boat": "Salty Chest Boat",
+
+  "item.sentreesmod.porcupine_spawn_egg": "Porcupine Spawn Egg",
+
+  "item.sentreesmod.cmonfreestyle_music_disc": "CMON FREESTYLE Music Disc",
+  "item.sentreesmod.do_it_again_music_disc": "DO IT AGAIN Music Disc",
+  "item.sentreesmod.champions_music_disc": "CHAMPIONS Music Disc",
+  "item.sentreesmod.dope_music_disc": "DOPE Music Disc",
+
+  "item.sentreesmod.cmonfreestyle_music_disc.desc": "NLE Choppa - CMON FREESTYLE (CC0)",
+  "item.sentreesmod.do_it_again_music_disc.desc": "NLE Choppa - DO IT AGAIN (CC0)",
+  "item.sentreesmod.champions_music_disc.desc": "NLE Choppa - CHAMPIONS (CC0)",
+  "item.sentreesmod.dope_music_disc.desc": "NLE Choppa - DOPE (CC0)",
+
+  "item.sentreesmod.cottonwood_album": "Cottonwood Album",
+
+  "tooltip.sentreesmod.metaldetector.tooltip": "Finds valuables underground",
+
+  "block.sentreesmod.wienerblock": "Wiener Block",
+  "block.sentreesmod.cookedwienerblock": "Cooked Wiener Block",
+  "block.sentreesmod.pickler": "Pickler",
+  "block.sentreesmod.cookingpot": "Cooking Pot",
+  "block.sentreesmod.saltore": "Salt Ore",
+  "block.sentreesmod.saltblock": "Salt Block",
+  "block.sentreesmod.compressedsaltblock": "Compressed Salt Block",
+  "block.sentreesmod.mustardblossoms": "Mustard Blossoms",
+
+  "block.sentreesmod.saltstairs": "Salt Stairs",
+  "block.sentreesmod.saltslab": "Salt Slab",
+  "block.sentreesmod.saltbutton": "Salt Button",
+  "block.sentreesmod.saltpressureplate": "Salt Pressure Plate",
+  "block.sentreesmod.saltfence": "Salt Fence",
+  "block.sentreesmod.saltfencegate": "Salt Fence Gate",
+  "block.sentreesmod.saltwall": "Salt Wall",
+  "block.sentreesmod.saltdoor": "Salt Door",
+  "block.sentreesmod.salttrapdoor": "Salt Trapdoor",
+  "block.sentreesmod.salty_sapling": "Salty Sapling",
+
+  "block.sentreesmod.cobblegenblock": "Cobblestone Generator",
+
+  "itemgroup.hotdog": "Sentree's Shenanigans",
+
+  "sounds.sentreesmod.metaldetectorfoundore": "Metal Detector Jingle"
+}

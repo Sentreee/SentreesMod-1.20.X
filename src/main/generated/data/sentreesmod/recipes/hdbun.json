@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "   ",
+    "WWW"
+  ],
+  "result": {
+    "count": 3,
+    "item": "sentreesmod:hdbun"
+  },
+  "show_notification": true
+}
